@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="529e325c-1d8d-4c73-ad92-b7f0f3fd34be" solutionId="529e325c-1d8d-4c73-ad92-b7f0f3fd34be" resetWebServer="false" sharePointProductVersion="15.0" name="SP2013_WP_Knockout" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4d10ca3e-a882-4e52-a42e-3d6c0b2cd956" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="811db24b-3fc6-48ca-a6ac-e9652313039a" />
+  </projectItems>
+</package>

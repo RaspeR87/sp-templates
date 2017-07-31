@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="EmptyVWPUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="EmptyVWP\" Type="ElementManifest" />
+    <ProjectItemFile Source="EmptyVWP.webpart" Target="EmptyVWP\" Type="ElementFile" />
+    <ProjectItemFile Source="EmptyVWPUserControl.ascx" Target="CONTROLTEMPLATES\SP2013_WP_Knockout.Contents.WebParts\EmptyVWP\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="SP2013_WP_Knockout.Contents.WebParts.EmptyVWP" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>
