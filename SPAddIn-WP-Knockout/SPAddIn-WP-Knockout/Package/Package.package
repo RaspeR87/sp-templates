@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="7770c252-a19d-4610-ac0f-e1498e1e7d07" 
+        solutionId="7770c252-a19d-4610-ac0f-e1498e1e7d07" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPAddIn_WP_Knockout"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="2da1680f-bd42-40db-b8c1-70812dc2db14" />
+  </features>
+</package>

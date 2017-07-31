@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\models\MainModel.js" Url="Scripts/models/MainModel.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\EmptyCWP.Load.js" Url="Scripts/EmptyCWP.Load.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\libs.min.js" Url="Scripts/libs.min.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
