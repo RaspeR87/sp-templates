@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="114760af-a38f-43a4-8064-47a34a099615" solutionId="114760af-a38f-43a4-8064-47a34a099615" resetWebServer="false" sharePointProductVersion="16.0" name="MySPAppPageReactApp" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="232ab7c0-4e22-4640-b435-f65f9b02b40f" />
+  </projectItems>
+</package>
